@@ -12,7 +12,7 @@ local function handler (event)
         print("Le picaste cabron")
     end
 end
---asdsdfsfd
+--asdsdfsfdasasd
 local count = 0
 local textillo = display.newText(count, display.contentCenterX, 80, native.systemFont, 80)
 local function increaseCount()
